@@ -1,7 +1,14 @@
 #! /bin/bash
 
 dnf update
-dnf install i3-gaps vim
+dnf install \
+	alacritty \
+	feh \
+	gnome-screenshot \
+	i3-gaps \
+	kde-runtime \
+	vim \
+	vmctrl 
 
 cp .bashrc $HOME/
 cp .vimrc $HOME/

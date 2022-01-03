@@ -248,7 +248,7 @@ for_window [window_type="notification"] no_focus
 no_focus [class="plasmashell"]
 no_focus [window_role="pop-up"]
 
-exec --no-startup-id feh --bg-scale --randomize /home/brendan/Pictures/backgrounds-2560x1600
+exec --no-startup-id feh --bg-scale --randomize /home/brendan/Wallpapers/blattes-bgs-2560x1600-May1-2009/backgrounds-2560x1600
 
 focus_on_window_activation none
 focus_follows_mouse no
